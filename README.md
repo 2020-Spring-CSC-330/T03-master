@@ -1,6 +1,6 @@
 # T04 - UI Design and Paper Prototyping
 
-In this teamwork we will explore the process of turning real world information into a structured databases. Much like Class diagrams are useful for visualizing classes' attributes and methods, Entity-Relationship (ER) Diagrams are a useful tool for visualizing databases.
+In this teamwork, You will explore the process of creating sketches and developing a paper prototype for your project in order to take your UI design to the next level.
 
 *This teamwork should be completed in your project groups. Add the names of your team members here:*
 ```
@@ -12,9 +12,9 @@ In this teamwork we will explore the process of turning real world information i
 
 ## Learning Objectives:
 
-- Analyze and understand an E-R diagram
-- Decompose a real-world scenario into its database representation
-- Apply what you learned to create a new E-R diagram of a real world system
+- Practice sketching and developing your User Interface
+- Apply design principles and usability knowledge to create a satisfactory prototype for your project
+- Test your prototype and make changes
 
 ## Key Terms & Definitions
 *From MDM, Ch 2, pg 53-74*
