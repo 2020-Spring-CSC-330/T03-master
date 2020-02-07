@@ -1,4 +1,4 @@
-# T01 - Entity Relationship Models and Diagrams
+# T04 - UI Design and Paper Prototyping
 
 In this teamwork we will explore the process of turning real world information into a structured databases. Much like Class diagrams are useful for visualizing classes' attributes and methods, Entity-Relationship (ER) Diagrams are a useful tool for visualizing databases.
 
