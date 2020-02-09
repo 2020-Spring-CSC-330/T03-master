@@ -16,24 +16,18 @@ In this teamwork, You will explore the process of creating sketches and developi
 - Apply design principles and usability knowledge to create a satisfactory prototype for your project
 - Test your prototype and make changes
 
-## Key Terms & Definitions
-*From MDM, Ch 2, pg 53-74*
 
-| Key Terms                    | Define the concept in your own words: |
-| ---------------------------- | ------------------------------------  |
-| **Business Rule**            | ```                             ```   |
-| **Attribute**                | ```                             ```   |
-| **Cardinality**              | ```                             ```   |
-| **E-R Diagram**              | ```                             ```   |
-| **Strong/Weak Entity Types** | ```                             ```   |
-| **Identifier**               | ```                             ```   |
+## Paper Prototyping
+
+A prototype is a rough, preliminary version of your app. It takes more work to produce a prototype than a sketch. You usually want to create a prototype to test your app with users before investing a lot of time in coding.
+
+You can watch this video to have an idea of what the paper prototype is supposed to look like at the end.
+
+[![Watch the video](https://img.youtube.com/vi/yafaGNFu8Eg/maxresdefault.jpg)](https://www.youtube.com/watch?v=yafaGNFu8Eg)
+
+Paper prototypes are the go-to method for designers to test apps and webpages. They allow you test interactions and user flow. You will often find problems with the signifiers, mapping, and conceptual model of your app in this step. Because it’s paper, it is simple and quick to fix these problems before the next test. Therefore, you can quickly improve your app design.
 
 
-## Step 1: What is an E-R Diagram (ERD)?
-
-To understand how ERD's are created and interpreted, we will begin by looking at an example from the book (p. 100). This example model depicts a theoretical database used for a mobile phone company. Answer the following questions about the ERD below.
-
-![Image of ERD](images/DBMS_ERD_p100.png "Cellular Company ERD")
 
 **List the features of this diagram. We've done the first one for you:**
 
