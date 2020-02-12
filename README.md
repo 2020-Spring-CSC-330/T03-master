@@ -1,4 +1,4 @@
-# T04 - UI Design and Paper Prototyping
+# T03: UI Design and Paper Prototyping
 
 In this teamwork, You will explore the process of creating sketches and developing a paper prototype for your project in order to take your UI design to the next level.
 
